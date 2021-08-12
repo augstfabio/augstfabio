@@ -1,3 +1,5 @@
-Meu primeiro projeto escrito em Python tem como objetivo varrer os dados de um site, que mostra em tempo real o numero de pessoas contaminadas, curadas e mortas pelo Corona Vírus.
-Esses dados são armazenados em um arquivo em formato de texto (arquivo.txt), onde apresenta tanto os casos de Covid19 em escala mundial, quando nacional. 
-Usei a bibliteca Selenium, o módulo Time e Chromedriver para automatizar todo esse processo.
+Hello There!<br />
+- Meu nome é Fabio Augusto curso um Bacharel em Ciencia e Tecnologia na UFMA.<br />
+- Pretendo cursar no segundo ciclo Engenharia de Computação<br /> 
+- Possuo conhecimentos básicos de Python e uma coisinha e outra de C.<br />
+<br />PS: Se alguma coisa estiver errada em meu perfil (como uma iformação fora do lugar kkkk) simplesmente ignorem, pois é minha primeira vez mexendo nesse tal de Github
