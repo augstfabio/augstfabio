@@ -11,7 +11,8 @@ Olá! Meu nome é Fábio Augusto e sou um estudante entusiasmado em busca de se 
 
 - HTML5
 - CSS
-- JavaScript (em constante aprimoramento)
+- JavaScript
+- React
 
 ## Projetos
 
@@ -24,7 +25,7 @@ Aqui estão alguns dos meus projetos mais recentes. Sinta-se à vontade para exp
 
 Estou sempre buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento frontend. Aqui estão algumas das coisas que estou estudando atualmente:
 
-- Frameworks JavaScript, como React ou Vue.js.
+- Frameworks JavaScript, como React
 - Práticas avançadas de CSS, como Flexbox e CSS Grid.
 - Integração de APIs e consumo de dados.
 - Design responsivo e desenvolvimento mobile-first.
