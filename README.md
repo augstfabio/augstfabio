@@ -19,6 +19,7 @@ Olá! Meu nome é Fábio Augusto e sou um estudante entusiasmado em busca de se 
 Aqui estão alguns dos meus projetos mais recentes. Sinta-se à vontade para explorar e fornecer feedback:
 
 1. Tela de login (https://augstfabio.github.io/tela-login/): Tela de login feita por autoria propria, usando apenas html5 e css.
+2. Cinepedia (https://augstfabio.github.io/cinepedia/): Site de consulta de filmes inspirado no projeto do canal Hora de Codar.
 
 
 ## Aprendizado contínuo
