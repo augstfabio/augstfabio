@@ -5,7 +5,7 @@
 </p>
 
 ## Sobre mim
-Olá! Meu nome é Fábio Augusto e sou um estudante entusiasmado em busca de se tornar um(a) desenvolvedor(a) frontend talentoso(a). Atualmente, estou aprimorando minhas habilidades em HTML5, CSS e JavaScript, e estou animado(a) em compartilhar meus projetos e progresso neste repositório.
+Olá! Meu nome é Fábio Augusto e sou um estudante entusiasmado em busca de se tornar um(a) desenvolvedor(a) frontend talentoso(a). Atualmente, estou aprimorando minhas habilidades em React js e estou animado(a) em compartilhar meus projetos e progresso neste repositório.
 
 ## Habilidades
 
