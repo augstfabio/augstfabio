@@ -21,8 +21,7 @@ Aqui estão alguns dos meus projetos mais recentes. Sinta-se à vontade para exp
 1. Tela de login (https://augstfabio.github.io/tela-login/): Tela de login feita por autoria propria, usando apenas html5 e css3.
 2. Cinepedia (https://augstfabio.github.io/cinepedia/): Site de consulta de filmes inspirado no projeto do canal Hora de Codar usando React js.
 
-3. Gb Sacavem (https://augstfabio.github.io/gb-sacavem/): Projeto de site da academia de jiu-jitsu Gracie Barra Sacavém desenvolvido para estudos (ainda em desenvolvimento)
-
+3. Clone da Netlix (https://augstfabio.github.io/netflix-clone/): Clone da netflix usando a api do tmdb.
 ## Aprendizado contínuo
 
 Estou sempre buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento frontend. Aqui estão algumas das coisas que estou estudando atualmente:
